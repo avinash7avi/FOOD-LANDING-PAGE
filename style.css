@@ -1,0 +1,141 @@
+
+
+.container1{
+    height: 460px;
+    width: 1366px;
+    background-color:#FDBE35;
+}
+
+
+.delivery{
+    width: 600px;
+    height: 60px;
+    padding: 6px;
+}
+.findfood{
+
+    width: 600px;
+    height: 60px;
+    padding: 6px;
+
+}
+.findfood>input{
+    width:400px;
+    height:40px;
+    margin-right: 6%;
+}
+.search{
+    padding: 7px;
+    width:auto ;
+    width: auto;
+    
+    
+}
+
+.findfoodbox{
+    margin-left: 70px;
+    margin-top:130px;
+    
+}
+.meals{
+    margin-right:100px;
+    
+}
+.text{
+    margin-left: 70px;
+    width: 500PX;
+    height: 40PX;
+}
+.tiffen{
+    display: flex;
+    justify-content:space-between;
+    border: none;
+    margin: 70px;
+
+}
+.card{
+    border: 0;
+}
+.hdiwork{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    width: 900px;
+    padding: 40px;
+    height: px;
+    margin-left: 190px;
+    background-color:#FFFFFF;
+    box-shadow: 1PX 1PX 10PX 15px #FFB5151A;
+
+}
+.searchbyfood{
+    
+    width:1365PX;
+    height:500px;
+    margin-top: 100PX;
+    background-color: #F6F5EE;
+}
+.searchimg{
+    display: flex;
+    justify-content: space-between;
+    gap:10px;
+    width:40px;
+    margin-top:100px;
+    margin-bottom:30px;
+    
+}
+/* ------------------ */
+
+.bestimg{
+    float: right;
+   width: 501px;
+   height: 350px;
+   margin-left: 100px;
+   margin-right:450px;
+
+}
+.bestdeals{
+    margin-left:20px;
+    margin-top: 150px;
+    
+
+
+}
+
+.bestdealh{
+    margin-bottom: 300px;
+    margin-top:200px;
+}
+/* ----------------------------- */
+
+.popularitems{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 37px;
+    border: none;   
+}
+
+/* ----------------------- */
+
+.footer{
+    background-color: #090D12;
+    height: 500px;
+    margin-top:70px;
+   
+}
+.tablefooter{
+    width:600px;
+    margin-left:60px;
+    display: inline-block;
+    padding-top:150px;
+    
+   
+}
+
+.socialmedia{
+    width:400PX;
+    margin-right:110PX;
+    float: right;
+    padding-top: 150px;
+}
+
