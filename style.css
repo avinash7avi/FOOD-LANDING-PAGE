@@ -119,23 +119,17 @@
 
 .footer{
     background-color: #090D12;
-    height: 500px;
+    height: 400px;
     margin-top:70px;
-   
+   display: flex;
 }
-.tablefooter{
-    width:600px;
-    margin-left:60px;
-    display: inline-block;
-    padding-top:150px;
-    
-   
-}
+
+
 
 .socialmedia{
     width:400PX;
-    margin-right:110PX;
-    float: right;
-    padding-top: 150px;
+    display: inline-block;
+    margin-left:150px;
+    margin-top:70px;
 }
 
